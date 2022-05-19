@@ -1,0 +1,2 @@
+N++ default location
+A:\Software\Windows\Office and Productivity\Notepad++\p.data.64\notepad++.exe
