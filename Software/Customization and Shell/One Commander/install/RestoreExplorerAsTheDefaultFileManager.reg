@@ -1,0 +1,1 @@
+Windows Registry Editor Version 5.00; Revert Default[HKEY_CURRENT_USER\SOFTWARE\Classes\Folder\shell]@=-[-HKEY_CURRENT_USER\SOFTWARE\Classes\Folder\shell\OpenInOneCommander][-HKEY_CURRENT_USER\SOFTWARE\Classes\Folder\shell\OpenInExplorer]; Revert Win+E[-HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{52205fd8-5dfb-447d-801a-d0b52f2e83e1}]

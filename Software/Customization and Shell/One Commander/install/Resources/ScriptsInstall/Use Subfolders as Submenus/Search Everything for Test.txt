@@ -1,0 +1,4 @@
+#you can point to any program and pass arguments
+#Voidtools Everything needs to be installed for this command that searches folders for word "test"
+
+"C:\Program Files\Everything\Everything.exe" -search "test"

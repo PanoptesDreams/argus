@@ -1,0 +1,7 @@
+#PS
+#above line indicates to run the rest with Powershell
+#$CurrentDir is provided by OC and it adds ' around name
+#use ' everywhere or test escaping double quotes
+
+$folderName = (Get-Date).ToString('dd-MM-yyyy_hh-mm-ss') 
+New-Item -ItemType Directory -Path $CurrentDir -Name $folderName

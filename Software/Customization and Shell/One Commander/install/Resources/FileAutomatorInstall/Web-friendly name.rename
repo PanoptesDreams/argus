@@ -1,0 +1,32 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "[\\s|_|\\.]",
+      "Replacement": "-",
+      "Expression": "~",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "ReplaceRegex"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "-+",
+      "Replacement": "-",
+      "Expression": "~",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "ReplaceRegex"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": false,
+  "StartingNumber": 1,
+  "ReplacementChar": "-",
+  "Description": "Makes name web-friendly by replacing spaces with dashes and making name lowercase",
+  "FileNameCase": 2,
+  "ExtensionCase": 2,
+  "ForcedExtension": ""
+}

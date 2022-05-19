@@ -1,0 +1,22 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "IMG_",
+      "Replacement": "Album",
+      "Expression": "~",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "ReplaceRegex"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": false,
+  "StartingNumber": 1,
+  "ReplacementChar": "_",
+  "Description": "Replace IMG_ with custom album name. \r\nChange \"Album\" below with your custom name",
+  "FileNameCase": 0,
+  "ExtensionCase": 0,
+  "ForcedExtension": ""
+}

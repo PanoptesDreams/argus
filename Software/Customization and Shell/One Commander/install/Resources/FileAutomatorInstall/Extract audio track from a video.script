@@ -1,0 +1,25 @@
+{
+  "FPJobRename": {
+    "RulesFileName": [
+      {
+        "FileRule": true,
+        "Pattern": "(\\d+)(?!.*\\d)",
+        "Replacement": "###",
+        "Expression": "~ (Audio)",
+        "IsActive": true,
+        "IsEnabled": true,
+        "IgnoreCase": false,
+        "RuleType": "Simple"
+      }
+    ],
+    "RulesFolderName": [],
+    "AddNumbers": true,
+    "StartingNumber": 1,
+    "ReplacementChar": "_",
+    "Description": "Extracts audio track from a video file into an mp3 file\r\n(FFMPEG needs to be already installed and configured)",
+    "FileNameCase": 0,
+    "ExtensionCase": 0,
+    "ForcedExtension": "mp3"
+  },
+  "script": "ffmpeg -i \"$SourceFile\" -vn \"$DestinationFile\""
+}

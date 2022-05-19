@@ -1,0 +1,22 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "~ (##)",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "Simple"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": true,
+  "StartingNumber": 1,
+  "ReplacementChar": "_",
+  "Description": "Simple rename that adds a sequential number in brackets\r\nName (01), Name (02)...\r\nSee file naming rules below",
+  "FileNameCase": 0,
+  "ExtensionCase": 0,
+  "ForcedExtension": ""
+}

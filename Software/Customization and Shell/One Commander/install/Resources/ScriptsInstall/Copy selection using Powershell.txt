@@ -1,0 +1,5 @@
+#PS
+#above line indicates to run the rest with Powershell
+#copies selected files ($Sel) to oposite browser ($OpDir)
+
+Copy-Item $Sel -Destination $OpDir

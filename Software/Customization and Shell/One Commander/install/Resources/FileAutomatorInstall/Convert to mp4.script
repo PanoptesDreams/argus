@@ -1,0 +1,25 @@
+{
+  "FPJobRename": {
+    "RulesFileName": [
+      {
+        "FileRule": true,
+        "Pattern": "(\\d+)(?!.*\\d)",
+        "Replacement": "###",
+        "Expression": "~ (new).mp4",
+        "IsActive": true,
+        "IsEnabled": true,
+        "IgnoreCase": false,
+        "RuleType": "Simple"
+      }
+    ],
+    "RulesFolderName": [],
+    "AddNumbers": true,
+    "StartingNumber": 1,
+    "ReplacementChar": "_",
+    "Description": "Converts video to mp4\r\nChange 1200k to a different number to increase/decrease quality and size or the output file\r\n(FFMPEG needs to be already installed and configured)",
+    "FileNameCase": 0,
+    "ExtensionCase": 0,
+    "ForcedExtension": ""
+  },
+  "script": "ffmpeg -i \"$SourceFile\" -b:a 128k -vcodec mpeg4 -b:v 1200k -flags +aic+mv4 \"$DestinationFile\""
+}

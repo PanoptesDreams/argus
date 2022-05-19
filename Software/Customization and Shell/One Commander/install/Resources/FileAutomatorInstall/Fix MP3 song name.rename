@@ -1,0 +1,52 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "$Track",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "MP3"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "(^[0-9]$)",
+      "Replacement": "0$0",
+      "Expression": "~",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "ReplaceRegex"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "~ - $Artist",
+      "IsActive": false,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "MP3"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "~ - $Song",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "MP3"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": false,
+  "StartingNumber": 1,
+  "ReplacementChar": "_",
+  "Description": "For MP3 music. Format as \r\n01 - Song\r\nusing embedded ID3 data",
+  "FileNameCase": 0,
+  "ExtensionCase": 0,
+  "ForcedExtension": ""
+}

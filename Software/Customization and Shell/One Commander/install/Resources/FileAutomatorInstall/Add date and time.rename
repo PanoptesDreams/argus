@@ -1,0 +1,42 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "$Y-$M-$D",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "Simple"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "~ $H꞉$m",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "Simple"
+    },
+    {
+      "FileRule": true,
+      "Pattern": "",
+      "Replacement": "",
+      "Expression": "~ *",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "Simple"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": false,
+  "StartingNumber": 1,
+  "ReplacementChar": "_",
+  "Description": "Adds date and time to beginning of the original name. \r\nUncheck time rule if you don't need it",
+  "FileNameCase": 0,
+  "ExtensionCase": 0,
+  "ForcedExtension": ""
+}

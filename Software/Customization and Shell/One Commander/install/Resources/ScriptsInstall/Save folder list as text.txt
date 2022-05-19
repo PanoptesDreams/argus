@@ -1,0 +1,4 @@
+#runs with CMD if nothing is specified
+#prints current folder list into a file
+
+dir $CurrentDir > DirContent.txt

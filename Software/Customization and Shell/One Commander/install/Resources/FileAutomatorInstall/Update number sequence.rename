@@ -1,0 +1,22 @@
+{
+  "RulesFileName": [
+    {
+      "FileRule": true,
+      "Pattern": "(\\d+)(?!.*\\d)",
+      "Replacement": "###",
+      "Expression": "~",
+      "IsActive": true,
+      "IsEnabled": true,
+      "IgnoreCase": false,
+      "RuleType": "ReplaceRegex"
+    }
+  ],
+  "RulesFolderName": [],
+  "AddNumbers": true,
+  "StartingNumber": 1,
+  "ReplacementChar": "_",
+  "Description": "Changes number sequence by replacing last found number with a new number starting at 1.\r\nChange number of # to have a proper number or leading zeros",
+  "FileNameCase": 0,
+  "ExtensionCase": 0,
+  "ForcedExtension": ""
+}

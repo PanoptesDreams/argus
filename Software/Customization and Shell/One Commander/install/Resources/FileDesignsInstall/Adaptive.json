@@ -1,0 +1,203 @@
+{
+  "ItemHorizontalAlignment": 3,
+  "ItemWidth": 100.0,
+  "ItemHeight": 64.0,
+  "FileViewType": 2,
+  "FileLine1": [
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Name",
+      "IsON": true,
+      "ElementAlign": 0,
+      "MinWidth": 200.0,
+      "Padding": 23.0,
+      "TextAlign": 0,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 1000.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Size",
+      "IsON": true,
+      "ElementAlign": 2,
+      "MinWidth": 60.3,
+      "Padding": 12.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 60.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Extension",
+      "IsON": true,
+      "ElementAlign": 0,
+      "MinWidth": 40.0,
+      "Padding": 8.0,
+      "TextAlign": 0,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 30.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "DateTime",
+      "IsON": true,
+      "ElementAlign": 2,
+      "MinWidth": 65.360000000000014,
+      "Padding": 8.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 50.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Age",
+      "IsON": true,
+      "ElementAlign": 0,
+      "MinWidth": 34.0,
+      "Padding": 8.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 40.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Time",
+      "IsON": true,
+      "ElementAlign": 0,
+      "MinWidth": 32.5,
+      "Padding": 8.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 20.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Attributes",
+      "IsON": false,
+      "ElementAlign": 0,
+      "MinWidth": 100.0,
+      "Padding": 0.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 100.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Owner",
+      "IsON": false,
+      "ElementAlign": 0,
+      "MinWidth": 100.0,
+      "Padding": 0.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 100.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "Metadata",
+      "IsON": false,
+      "ElementAlign": 0,
+      "MinWidth": 100.0,
+      "Padding": 0.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 100.0
+    },
+    {
+      "MarkUnimportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RenderElement": "DateTimeCreated",
+      "IsON": false,
+      "ElementAlign": 0,
+      "MinWidth": 100.0,
+      "Padding": 0.0,
+      "TextAlign": 1,
+      "StringFormat": "",
+      "MarkImportant": {
+        "Item1": -1,
+        "Item2": -1
+      },
+      "RemovalOrder": 100.0
+    }
+  ],
+  "IconParams": {
+    "ImgPos": "-20,0",
+    "ImgSize": "16,16",
+    "IsON": true,
+    "IsAbsolute": false
+  },
+  "ThumbParams": {
+    "ImgPos": "1,19",
+    "ImgSize": "96,150",
+    "IsON": true,
+    "IsAbsolute": false
+  },
+  "ThumbStretch": 2,
+  "DynamicHeight": true,
+  "ViewName": "Adaptive"
+}

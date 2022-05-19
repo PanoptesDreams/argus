@@ -1,0 +1,5 @@
+#BASH
+#WSL needs to be installed
+
+d="$(date +"%Y-%m-%d")"
+mkdir "Bash_created_$d"
