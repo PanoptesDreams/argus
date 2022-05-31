@@ -1,10 +1,10 @@
-### Credits
+## Credits
 
-##### Developer
+### Developer
 
 [PanoptesDreams](https://github.com/PanoptesDreams)
 
-##### Icons
+### Icons
 
 Host source [Flaticon](https://www.flaticon.com/)
 
@@ -31,3 +31,8 @@ Photo Camera, Picture, Windows
 
 [Srip](https://www.flaticon.com/authors/srip)
 App, Controller, Movie, Video
+
+
+### Web resources
+
+[Creating 'New File' menu entries](https://www.howtogeek.com/290500/how-to-add-other-file-types-to-the-new-item-menu-in-windows-10s-file-explorer/)
