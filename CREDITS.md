@@ -35,4 +35,6 @@ App, Controller, Movie, Video
 
 ### Web resources
 
+[Just so many things.. THANK SO MUCH WINAERO!](https://winaero.com/)
+
 [Creating 'New File' menu entries](https://www.howtogeek.com/290500/how-to-add-other-file-types-to-the-new-item-menu-in-windows-10s-file-explorer/)
