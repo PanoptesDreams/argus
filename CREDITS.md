@@ -1,4 +1,4 @@
-## Credits
+# Credits
 
 ### Developer
 
@@ -31,7 +31,6 @@ Photo Camera, Picture, Windows
 
 [Srip](https://www.flaticon.com/authors/srip)
 App, Controller, Movie, Video
-
 
 ### Web resources
 
