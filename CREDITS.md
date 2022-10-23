@@ -4,6 +4,8 @@
 
 [PanoptesDreams](https://github.com/PanoptesDreams)
 
+## Resources
+
 ### Icons
 
 Host source [Flaticon](https://www.flaticon.com/)
